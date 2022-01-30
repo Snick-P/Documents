@@ -1,0 +1,18 @@
+Project
+Version
+ID
+Summary
+Project
+Component
+Version
+Severety
+Priotity
+Satus
+Author
+Assigned To
+Environment
+Steps to Reprodus
+Result
+Expected Result
+Attachmen
+
