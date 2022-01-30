@@ -1,5 +1,5 @@
 Project
-Version
+Version 1
 ID
 Summary
 Project
